@@ -25,6 +25,7 @@
     "axios": "^0.19.2",
     "axios-retry": "^3.1.2",
     "crypto-random-string": "^3.1.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "pritunl-api-wrapper": "^1.0.4"
   }
 }
